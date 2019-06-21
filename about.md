@@ -9,7 +9,7 @@ My name is
 </i>
 I hold  Bachelor's Degree in Electronics and Communication from Bharti Vidyapeeth University, Pune
 
-I am starting my Master's Degree in Computer Engineering at Northerastern University in Boston.
+Starting this fall I will be a Master's Degree student in Computer Engineering at Northerastern University in Boston.
 
 Websites, web scraping, simple server setups, and many more things that give me an excuse to learn something new and find some fun problems to solve.
 
